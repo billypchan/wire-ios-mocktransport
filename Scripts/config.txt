@@ -1,4 +1,4 @@
 framework=WireMockTransport
-organization=wireapp
+organization=billypchan
 repository=wire-ios-mocktransport
 release-name-format={ADJECTIVE} {ANIMAL} is {ADJECTIVE}
