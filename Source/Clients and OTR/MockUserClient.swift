@@ -19,7 +19,6 @@
 
 import Foundation
 import CoreData
-import WireCryptobox
 
 @objc public class MockUserClient : NSManagedObject {
     
